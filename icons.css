@@ -1,0 +1,50 @@
+/* Define styles for the container of icons */
+.icons {
+    text-align: center; /* Center-align the icons */
+}
+
+/* Define styles for the individual icon links */
+.icons a {
+    text-decoration: none; /* Remove underline from icon links */
+    margin-right: 20px; /* Add right margin to separate icon links */
+}
+
+/* Define styles for the house icon */
+.fa-solid.fa-house.fa-5x {
+    color: hsl(0, 0%, 65%); /* Set color for the house icon */
+}
+
+/* Define styles for the house icon on hover */
+.fa-solid.fa-house.fa-5x:hover {
+    color: hsl(0, 0%, 75%); /* Change color of the house icon on hover */
+}
+
+/* Define styles for the Twitter icon */
+.fa-brands.fa-twitter.fa-5x {
+    color: hsl(188, 100%, 50%); /* Set color for the Twitter icon */
+}
+
+/* Define styles for the Twitter icon on hover */
+.fa-brands.fa-twitter.fa-5x:hover {
+    color: hsl(188, 100%, 60%); /* Change color of the Twitter icon on hover */
+}
+
+/* Define styles for the YouTube icon */
+.fa-brands.fa-youtube.fa-5x {
+    color: hsl(0, 100%, 50%); /* Set color for the YouTube icon */
+}
+
+/* Define styles for the YouTube icon on hover */
+.fa-brands.fa-youtube.fa-5x:hover {
+    color: hsl(0, 100%, 60%); /* Change color of the YouTube icon on hover */
+}
+
+/* Define styles for the TikTok icon */
+.fa-brands.fa-tiktok.fa-5x {
+    color: hsl(0, 0%, 10%); /* Set color for the TikTok icon */
+}
+
+/* Define styles for the TikTok icon on hover */
+.fa-brands.fa-tiktok.fa-5x:hover {
+    color: hsl(0, 0%, 30%); /* Change color of the TikTok icon on hover */
+}
